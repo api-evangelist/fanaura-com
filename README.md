@@ -1,4 +1,4 @@
-# fanaura-com
+# Fanaura
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,149 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fanaura-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://fanaura.com/
+Fanaura provides Instagram DM automation that turns post comments into owned contacts and can send links, email or phone information via direct messages. It also offers release‑day marketing tools for musicians, including native pre‑saves, tour RSVPs, merch links and fan maps. The service is available to musicians, podcasters, creators, coaches, influencers, authors, businesses and photographers.
+
+**Areas:** Instagram DM automation · Music marketing · Release marketing · Business marketing
+
+## Fanaura on APIs.io
+
+Everything profiled for Fanaura is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fanaura-com/](https://apis.io/providers/fanaura-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [Fanaura Careers API](https://apis.io/apis/fanaura-com/fanaura-com-careers-api/) — The Careers API from Fanaura — 1 operation(s) for careers.
+- [Fanaura Demo API](https://apis.io/apis/fanaura-com/fanaura-com-demo-api/) — The Demo API from Fanaura — 1 operation(s) for demo.
+- [Fanaura Legal API](https://apis.io/apis/fanaura-com/fanaura-com-legal-api/) — The Legal API from Fanaura — 2 operation(s) for legal.
+- [Fanaura Llms Full.txt API](https://apis.io/apis/fanaura-com/fanaura-com-llms-full-txt-api/) — The Llms Full.txt API from Fanaura — 1 operation(s) for llms full.txt.
+- [Fanaura Llms.txt API](https://apis.io/apis/fanaura-com/fanaura-com-llms-txt-api/) — The Llms.txt API from Fanaura — 1 operation(s) for llms.txt.
+- [Fanaura MCP API](https://apis.io/apis/fanaura-com/fanaura-com-mcp-api/) — The Mcp API from Fanaura — 1 operation(s) for mcp.
+- [Fanaura Openapi.json API](https://apis.io/apis/fanaura-com/fanaura-com-openapi-json-api/) — The Openapi.json API from Fanaura — 1 operation(s) for openapi.json.
+- [Fanaura Privacy Policy.txt API](https://apis.io/apis/fanaura-com/fanaura-com-privacy-policy-txt-api/) — The Privacy Policy.txt API from Fanaura — 1 operation(s) for privacy policy.txt.
+- [Fanaura Revalidate API](https://apis.io/apis/fanaura-com/fanaura-com-revalidate-api/) — The Revalidate API from Fanaura — 1 operation(s) for revalidate.
+- [Fanaura Sitemap.xml API](https://apis.io/apis/fanaura-com/fanaura-com-sitemap-xml-api/) — The Sitemap.xml API from Fanaura — 1 operation(s) for sitemap.xml.
+- [Fanaura .well Known API](https://apis.io/apis/fanaura-com/fanaura-com-well-known-api/) — The .well Known API from Fanaura — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fanaura Com Agentic Access](https://apis.io/agentic-access/fanaura-com/fanaura-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CareersApplication](https://apis.io/schemas/fanaura-com/fanaura-com-careers-application/)
+- [JsonRpcRequest](https://apis.io/schemas/fanaura-com/fanaura-com-json-rpc-request/)
+- [LegalDocument](https://apis.io/schemas/fanaura-com/fanaura-com-legal-document/)
+- [ProtectedResourceMetadata](https://apis.io/schemas/fanaura-com/fanaura-com-protected-resource-metadata/)
+- [RevalidateRequest](https://apis.io/schemas/fanaura-com/fanaura-com-revalidate-request/)
+- [RevalidateResult](https://apis.io/schemas/fanaura-com/fanaura-com-revalidate-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Fanaura Com Context](https://apis.io/jsonld/fanaura-com/fanaura-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Fanaura API Rules](https://apis.io/rules/fanaura-com/fanaura-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fanaura Com Authentication](https://apis.io/security/fanaura-com/fanaura-com-authentication/)
+- [Fanaura Com Domain Security](https://apis.io/security/fanaura-com/fanaura-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Fanaura Com Scopes](https://apis.io/scopes/fanaura-com/fanaura-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Fanaura Com Plans Pricing](https://apis.io/plans/fanaura-com/fanaura-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fanaura.com/)
+- [Documentation](https://help.fanaura.com/)
+- [Getting started](https://help.fanaura.com/getting-started/onboarding)
+- [API reference](https://www.fanaura.com/llms.txt)
+- [Pricing](https://www.fanaura.com/pricing)
+- [Support](https://www.fanaura.com/support)
+- [Changelog](https://www.fanaura.com/changelog)
+- [Blog](https://www.fanaura.com/blog)
+- [Security](https://help.fanaura.com/settings/security)
+- [Terms of service](https://www.fanaura.com/terms)
+- [Privacy policy](https://www.fanaura.com/privacy?ref=footer)
+- [Status](https://status.fanaura.com/)
+
+## API Evangelist rating
+
+**Kin Score 59.5** — strong · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 54.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 63.7 |
+
+**Agent readiness 53.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fanaura-com/](https://apis.io/providers/fanaura-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fanaura: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fanaura-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
